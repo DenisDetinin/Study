@@ -1,3 +1,4 @@
+"use strict";
 alert("Привет мир")
 let Cl1 = prompt('Введите 1 число ');
 let a = prompt('введите операцию');
